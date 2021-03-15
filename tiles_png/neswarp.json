@@ -1,0 +1,14 @@
+{ "columns":5,
+ "image":"tiles\/neswarp.png",
+ "imageheight":576,
+ "imagewidth":160,
+ "margin":0,
+ "name":"neswarp",
+ "spacing":0,
+ "tilecount":90,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}

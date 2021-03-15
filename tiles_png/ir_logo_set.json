@@ -1,0 +1,22 @@
+{ "columns":9,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"",
+         "target":"."
+        }
+    },
+ "image":"ir_logo_set.png",
+ "imageheight":320,
+ "imagewidth":288,
+ "margin":0,
+ "name":"ir_logo_set",
+ "spacing":0,
+ "tilecount":90,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
