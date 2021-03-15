@@ -701,8 +701,12 @@
          "tilewidth":32
         }, 
         {
-         "columns":15,
          "firstgid":3668,
+         "source":"tiles_png\/cija.json"
+        }, 
+        {
+         "columns":15,
+         "firstgid":5513,
          "image":"tiles_png\/cija.png",
          "imageheight":3936,
          "imagewidth":480,
