@@ -82,7 +82,7 @@
          "name":"floorLayer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -94,7 +94,7 @@
          "name":"deko2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -199,7 +199,20 @@
         }, 
         {
          "firstgid":10,
-         "source":"..\/GitHub\/workadventure_SW\/tiles\/cija.json"
+         "source":"tiles_png\/cija.json"
+        }, 
+        {
+         "columns":15,
+         "firstgid":1855,
+         "image":"tiles_png\/cija.png",
+         "imageheight":3936,
+         "imagewidth":480,
+         "margin":0,
+         "name":"cija",
+         "spacing":0,
+         "tilecount":1845,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
