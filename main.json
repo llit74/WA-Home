@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"home_0.json#start"
+                 "value":"home_00.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
