@@ -34,7 +34,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
                  "value":"\/mp3\/timbregirlelevator.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
                  "value":"small.json#start"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
                  "value":"shared_heyopeops"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -106,7 +106,7 @@
                  "value":"http:\/\/www.nyan.cat\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -124,7 +124,7 @@
                  "value":"https:\/\/www.google.com\/search?q=puppy+pics&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjgt5uWt9XtAhUTnVwKHardA2IQ_AUoAXoECB8QAw&biw=1920&bih=976"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -136,7 +136,7 @@
          "name":"floorLayer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -148,7 +148,7 @@
          "name":"backwalls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -160,7 +160,7 @@
          "name":"carpets",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -172,7 +172,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -184,7 +184,7 @@
          "name":"deko1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -196,7 +196,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -207,7 +207,7 @@
          "name":"frontwalls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -219,7 +219,7 @@
          "name":"deko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -692,6 +692,19 @@
          "name":"rc3-mullana-floor-wall",
          "spacing":0,
          "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":15,
+         "firstgid":3668,
+         "image":"tiles_png\/cija.png",
+         "imageheight":3936,
+         "imagewidth":480,
+         "margin":0,
+         "name":"cija",
+         "spacing":0,
+         "tilecount":1845,
          "tileheight":32,
          "tilewidth":32
         }],
