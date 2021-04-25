@@ -286,11 +286,11 @@
             "scaleInDock": 1
         },
         "Startraum_bS.json": {
-            "scale": 0.75,
-            "selectedLayer": 14,
+            "scale": 0.33,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 589.3333333333334,
-                "y": 450.66666666666663
+                "x": 709.0909090909091,
+                "y": 451.5151515151515
             }
         },
         "Startraum_bS.json#08_right_mate_bottles_flora_full": {
