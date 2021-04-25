@@ -1,8 +1,8 @@
 {
     "activeFile": "Startraum_bS.json",
     "expandedProjectPaths": [
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA",
-        "."
+        ".",
+        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA"
     ],
     "fileStates": {
         "": {
@@ -287,10 +287,10 @@
         },
         "Startraum_bS.json": {
             "scale": 0.33,
-            "selectedLayer": 3,
+            "selectedLayer": 18,
             "viewCenter": {
-                "x": 709.0909090909091,
-                "y": 451.5151515151515
+                "x": 878.7878787878788,
+                "y": 393.9393939393939
             }
         },
         "Startraum_bS.json#08_right_mate_bottles_flora_full": {
