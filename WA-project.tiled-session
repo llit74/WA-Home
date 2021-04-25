@@ -1,8 +1,8 @@
 {
-    "activeFile": "home_00.json",
+    "activeFile": "Startraum_bS.json",
     "expandedProjectPaths": [
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA",
-        "."
+        ".",
+        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA"
     ],
     "fileStates": {
         "": {
@@ -286,16 +286,22 @@
             "scaleInDock": 1
         },
         "Startraum_bS.json": {
-            "scale": 0.5,
-            "selectedLayer": 12,
+            "scale": 1,
+            "selectedLayer": 18,
             "viewCenter": {
-                "x": 66,
-                "y": 321
+                "x": 768,
+                "y": 671
             }
         },
         "Startraum_bS.json#08_right_mate_bottles_flora_full": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "Startraum_bS.json#Topdown game 32 bit": {
+            "scaleInDock": 1
+        },
+        "Startraum_bS.json#cija": {
+            "scaleInDock": 1
         },
         "Startraum_bS.json#cija_32x32_expansion for Pipoya_CC0": {
             "scaleInDock": 1,
@@ -304,6 +310,9 @@
         "Startraum_bS.json#dk_transports": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "Startraum_bS.json#grass": {
+            "scaleInDock": 1
         },
         "Startraum_bS.json#mapUtilities": {
             "scaleInDock": 1,
@@ -353,8 +362,8 @@
             "scale": 0.75,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 209.33333333333337,
-                "y": 387.99999999999994
+                "x": 320,
+                "y": 320
             }
         },
         "home_00.json#10_coffee": {
@@ -413,8 +422,8 @@
             "scale": 0.7857291666666666,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 479.80909452472497,
-                "y": 479.1727429404747
+                "x": 481.08179769322555,
+                "y": 481.08179769322555
             }
         },
         "medium.json#08_right_mate_bottles_flora_full": {
@@ -460,6 +469,7 @@
             "scaleInDock": 1
         }
     },
+    "last.imagePath": "C:/Users/micro/OneDrive/Dokumente/WA-Home/tiles_png/community/cert/imgs/tilesheets",
     "map.lastUsedFormat": "json",
     "openFiles": [
         "Startraum_bS.json",
@@ -468,14 +478,15 @@
     ],
     "project": "WA-project.tiled-project",
     "recentFiles": [
-        "Startraum_bS.json",
         "medium.json",
         "home_00.json",
+        "Startraum_bS.json",
         "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json",
         "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json",
         "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json",
         "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json",
         "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json"
     ],
-    "textEdit.monospace": false
+    "textEdit.monospace": false,
+    "tileset.embedInMap": true
 }
