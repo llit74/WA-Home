@@ -84,7 +84,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/buildingsmart.de\/"
+                 "value":"https:\/\/www.buildingsmart.de\/"
                 }],
          "type":"tilelayer",
          "visible":false,
