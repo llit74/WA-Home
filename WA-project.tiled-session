@@ -289,8 +289,8 @@
             "scale": 0.5,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 646,
-                "y": 710
+                "x": 66,
+                "y": 321
             }
         },
         "Startraum_bS.json#08_right_mate_bottles_flora_full": {
@@ -350,11 +350,11 @@
             "scaleInEditor": 1
         },
         "home_00.json": {
-            "scale": 2,
+            "scale": 0.75,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 140.5,
-                "y": 541.5
+                "x": 209.33333333333337,
+                "y": 387.99999999999994
             }
         },
         "home_00.json#10_coffee": {
@@ -413,8 +413,8 @@
             "scale": 0.7857291666666666,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 433.99178045870343,
-                "y": 388.17446639268195
+                "x": 479.80909452472497,
+                "y": 479.1727429404747
             }
         },
         "medium.json#08_right_mate_bottles_flora_full": {
