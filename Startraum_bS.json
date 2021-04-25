@@ -277,7 +277,7 @@
          "height":42,
          "id":41,
          "name":"floor_inside",
-         "opacity":0.81,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":49,

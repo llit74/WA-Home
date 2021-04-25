@@ -1,8 +1,8 @@
 {
     "activeFile": "Startraum_bS.json",
     "expandedProjectPaths": [
-        ".",
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA"
+        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA",
+        "."
     ],
     "fileStates": {
         "": {
@@ -287,9 +287,9 @@
         },
         "Startraum_bS.json": {
             "scale": 0.75,
-            "selectedLayer": 17,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 590.6666666666665,
+                "x": 589.3333333333334,
                 "y": 450.66666666666663
             }
         },
