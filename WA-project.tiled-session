@@ -476,5 +476,6 @@
         "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json",
         "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json",
         "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json"
-    ]
+    ],
+    "textEdit.monospace": false
 }
