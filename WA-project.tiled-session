@@ -1,8 +1,8 @@
 {
-    "activeFile": "Startraum_bS.json",
+    "activeFile": "taverne_aplha.json",
     "expandedProjectPaths": [
-        ".",
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA"
+        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA",
+        "."
     ],
     "fileStates": {
         "": {
@@ -290,7 +290,7 @@
             "selectedLayer": 18,
             "viewCenter": {
                 "x": 878.7878787878788,
-                "y": 393.9393939393939
+                "y": 393.939393939394
             }
         },
         "Startraum_bS.json#08_right_mate_bottles_flora_full": {
@@ -421,6 +421,62 @@
         "home_00.json#rc3-mullana-overlay": {
             "scaleInDock": 1
         },
+        "main.json": {
+            "scale": 0.8932065217391304,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 304.52083967143295,
+                "y": 368.33586857316703
+            }
+        },
+        "main.json#10_coffee": {
+            "scaleInDock": 1
+        },
+        "main.json#23_tisch_weiss_1": {
+            "scaleInDock": 1
+        },
+        "main.json#57_zettelfoo": {
+            "scaleInDock": 1
+        },
+        "main.json#65_tischdokumente_2": {
+            "scaleInDock": 1
+        },
+        "main.json#broken_glass_1": {
+            "scaleInDock": 1
+        },
+        "main.json#c3gelb": {
+            "scaleInDock": 1
+        },
+        "main.json#cija": {
+            "scaleInDock": 1
+        },
+        "main.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "main.json#misc": {
+            "scaleInDock": 1
+        },
+        "main.json#misc_set": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-mullana-colors-128": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-mullana-overlay": {
+            "scaleInDock": 1
+        },
         "medium.json": {
             "scale": 0.7857291666666666,
             "selectedLayer": 8,
@@ -470,16 +526,79 @@
         },
         "medium.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1
+        },
+        "taverne_aplha.json": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 368,
+                "y": 245.33333333333331
+            }
+        },
+        "taverne_aplha.json#10_coffee": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#23_tisch_weiss_1": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#57_zettelfoo": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#65_tischdokumente_2": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#broken_glass_1": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#c3gelb": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#cija": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#minideko": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#misc": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#misc_set": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#rc3-mullana-colors-128": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#rc3-mullana-overlay": {
+            "scaleInDock": 1
         }
     },
     "last.imagePath": "C:/Users/micro/OneDrive/Dokumente/WA-Home/tiles_png/community/cert/imgs/tilesheets",
     "map.lastUsedFormat": "json",
     "openFiles": [
-        "Startraum_bS.json"
+        "Startraum_bS.json",
+        "main.json",
+        "taverne_aplha.json"
     ],
     "project": "WA-project.tiled-project",
     "recentFiles": [
         "Startraum_bS.json",
+        "main.json",
+        "taverne_aplha.json",
         "medium.json",
         "home_00.json",
         "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json",
