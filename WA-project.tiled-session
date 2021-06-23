@@ -130,7 +130,7 @@
         },
         "taverne_aplha.json": {
             "scale": 1.198,
-            "selectedLayer": 2,
+            "selectedLayer": -1,
             "viewCenter": {
                 "x": 411.9365609348915,
                 "y": 358.0968280467446
@@ -195,7 +195,7 @@
             "selectedLayer": 12,
             "viewCenter": {
                 "x": 342.6544240400668,
-                "y": 358.0968280467446
+                "y": 357.26210350584313
             }
         },
         "taverne_beta.json#10_coffee": {
