@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/www.buildingsmart.de\/regionalgruppen\/rhein-ruhr"
+                 "value":"exit"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -72,11 +72,67 @@
         "big.json#text": {
             "scaleInDock": 1
         },
+        "main.json": {
+            "scale": 1.1668478260869564,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 304.666977177457,
+                "y": 368.51420586865396
+            }
+        },
+        "main.json#10_coffee": {
+            "scaleInDock": 1
+        },
+        "main.json#23_tisch_weiss_1": {
+            "scaleInDock": 1
+        },
+        "main.json#57_zettelfoo": {
+            "scaleInDock": 1
+        },
+        "main.json#65_tischdokumente_2": {
+            "scaleInDock": 1
+        },
+        "main.json#broken_glass_1": {
+            "scaleInDock": 1
+        },
+        "main.json#c3gelb": {
+            "scaleInDock": 1
+        },
+        "main.json#cija": {
+            "scaleInDock": 1
+        },
+        "main.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "main.json#misc": {
+            "scaleInDock": 1
+        },
+        "main.json#misc_set": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-mullana-colors-128": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "main.json#rc3-mullana-overlay": {
+            "scaleInDock": 1
+        },
         "taverne_aplha.json": {
             "scale": 1.198,
-            "selectedLayer": 9,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 411.10183639399,
+                "x": 411.9365609348915,
                 "y": 358.0968280467446
             }
         },
@@ -132,6 +188,68 @@
             "scaleInDock": 1
         },
         "taverne_aplha.json#rc3-mullana-overlay": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json": {
+            "scale": 1.198,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 342.6544240400668,
+                "y": 358.0968280467446
+            }
+        },
+        "taverne_beta.json#10_coffee": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#23_tisch_weiss_1": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#57_zettelfoo": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#65_tischdokumente_2": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#Logo_bS_RG-Rhein-Ruhr": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#broken_glass_1": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#c3gelb": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#cija": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#minideko": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#misc": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#misc_set": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#rc3-mullana-colors-128": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "taverne_beta.json#rc3-mullana-overlay": {
             "scaleInDock": 1
         }
     },
