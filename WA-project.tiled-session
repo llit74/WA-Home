@@ -1,594 +1,83 @@
 {
     "activeFile": "taverne_aplha.json",
     "expandedProjectPaths": [
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA",
         "."
     ],
     "fileStates": {
-        "": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json": {
-            "scale": 0.5,
-            "selectedLayer": 6,
-            "viewCenter": {
-                "x": 740,
-                "y": 466
-            }
-        },
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json#08_right_mate_bottles_flora_full": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json#cija_32x32_expansion for Pipoya_CC0": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json#dk_transports": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json#mapUtilities": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json#minideko": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json#official_rockets": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json#rc3-mullana-colors-128": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json#rc3-mullana-floor-wall": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json#rc3-mullana-functionary": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json#rc3-mullana-neon-signs": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json#rc3-mullana-overlay": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json#rc3_style_set": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json#text": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json#tilesets_deviant_milkian_1": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json": {
-            "scale": 0.4183,
+        "big.json": {
+            "scale": 0.24462499999999998,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 798.4699976093713,
-                "y": 799.6653119770499
+                "x": 803.2703117015841,
+                "y": 799.182422074604
             }
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#01_fire_extinguisher": {
+        "big.json#01_fire_extinguisher": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#05_mate_bottles_full": {
+        "big.json#05_mate_bottles_full": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#07_right_mate_bottles_flora": {
+        "big.json#07_right_mate_bottles_flora": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#11_coffee2": {
+        "big.json#11_coffee2": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#13_stone_tile_hatch": {
+        "big.json#13_stone_tile_hatch": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#13_winkekatze": {
+        "big.json#13_winkekatze": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#AceSet-Hospital": {
+        "big.json#AceSet-Hospital": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#dk_lines": {
+        "big.json#dk_lines": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#fairydust": {
+        "big.json#fairydust": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#mapUtilities": {
+        "big.json#mapUtilities": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#minideko": {
+        "big.json#minideko": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#misc": {
+        "big.json#misc": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#rc3": {
+        "big.json#rc3": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#rc3-mullana-colors-128": {
+        "big.json#rc3-mullana-colors-128": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#rc3-mullana-floor-wall": {
+        "big.json#rc3-mullana-floor-wall": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#rc3-mullana-functionary": {
+        "big.json#rc3-mullana-functionary": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#rc3-mullana-neon-signs": {
+        "big.json#rc3-mullana-neon-signs": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#rc3-mullana-overlay": {
+        "big.json#rc3-mullana-overlay": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#testing_set": {
+        "big.json#testing_set": {
             "scaleInDock": 1
         },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json#text": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json": {
-            "scale": 1.17265625,
-            "selectedLayer": 0,
-            "viewCenter": {
-                "x": 319.7868087941373,
-                "y": 319.36042638241173
-            }
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#10_coffee": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#23_tisch_weiss_1": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#57_zettelfoo": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#65_tischdokumente_2": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#broken_glass_1": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#c3gelb": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#cija": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#mapUtilities": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#misc": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#misc_set": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#rc3-mullana-colors-128": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#rc3-mullana-floor-wall": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#rc3-mullana-functionary": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#rc3-mullana-neon-signs": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#rc3-mullana-objects": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json#rc3-mullana-overlay": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json": {
-            "scale": 0.7817708333333333,
-            "selectedLayer": 18,
-            "viewCenter": {
-                "x": 479.68021319120584,
-                "y": 479.0406395736176
-            }
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json#08_right_mate_bottles_flora_full": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json#cija_32x32_expansion for Pipoya_CC0": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json#dk_transports": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json#mapUtilities": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json#minideko": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json#official_rockets": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json#rc3-mullana-colors-128": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json#rc3-mullana-floor-wall": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json#rc3-mullana-functionary": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json#rc3-mullana-neon-signs": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json#rc3-mullana-overlay": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json#rc3_style_set": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json#text": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json#tilesets_deviant_milkian_1": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json": {
-            "scale": 1.17265625,
-            "selectedLayer": 0,
-            "viewCenter": {
-                "x": 319.7868087941373,
-                "y": 319.36042638241173
-            }
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json#10_coffee": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json#23_tisch_weiss_1": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json#57_zettelfoo": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json#65_tischdokumente_2": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json#broken_glass_1": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json#c3gelb": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json#mapUtilities": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json#misc": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json#misc_set": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json#rc3-mullana-colors-128": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json#rc3-mullana-floor-wall": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json#rc3-mullana-functionary": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json#rc3-mullana-neon-signs": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json#rc3-mullana-objects": {
-            "scaleInDock": 1
-        },
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json#rc3-mullana-overlay": {
-            "scaleInDock": 1
-        },
-        "Startraum_bS.json": {
-            "scale": 0.33,
-            "selectedLayer": 18,
-            "viewCenter": {
-                "x": 878.7878787878788,
-                "y": 396.969696969697
-            }
-        },
-        "Startraum_bS.json#08_right_mate_bottles_flora_full": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "Startraum_bS.json#AceSet-Hospital": {
-            "scaleInDock": 1
-        },
-        "Startraum_bS.json#Topdown game 32 bit": {
-            "scaleInDock": 1
-        },
-        "Startraum_bS.json#cija": {
-            "scaleInDock": 1
-        },
-        "Startraum_bS.json#cija_32x32_expansion for Pipoya_CC0": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "Startraum_bS.json#dk_transports": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "Startraum_bS.json#grass": {
-            "scaleInDock": 1
-        },
-        "Startraum_bS.json#mapUtilities": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "Startraum_bS.json#minideko": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "Startraum_bS.json#official_rockets": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "Startraum_bS.json#rc3-mullana-colors-128": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "Startraum_bS.json#rc3-mullana-floor-wall": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "Startraum_bS.json#rc3-mullana-functionary": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "Startraum_bS.json#rc3-mullana-neon-signs": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "Startraum_bS.json#rc3-mullana-overlay": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "Startraum_bS.json#rc3_style_set": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "Startraum_bS.json#text": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "Startraum_bS.json#tilesets_deviant_milkian_1": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "home_00.json": {
-            "scale": 0.75,
-            "selectedLayer": 4,
-            "viewCenter": {
-                "x": 320,
-                "y": 320
-            }
-        },
-        "home_00.json#10_coffee": {
-            "scaleInDock": 1
-        },
-        "home_00.json#23_tisch_weiss_1": {
-            "scaleInDock": 1
-        },
-        "home_00.json#57_zettelfoo": {
-            "scaleInDock": 1
-        },
-        "home_00.json#65_tischdokumente_2": {
-            "scaleInDock": 1
-        },
-        "home_00.json#broken_glass_1": {
-            "scaleInDock": 1
-        },
-        "home_00.json#c3gelb": {
-            "scaleInDock": 1
-        },
-        "home_00.json#cija": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "home_00.json#mapUtilities": {
-            "scaleInDock": 1
-        },
-        "home_00.json#minideko": {
-            "scaleInDock": 1
-        },
-        "home_00.json#misc": {
-            "scaleInDock": 1
-        },
-        "home_00.json#misc_set": {
-            "scaleInDock": 1
-        },
-        "home_00.json#rc3-mullana-colors-128": {
-            "scaleInDock": 1
-        },
-        "home_00.json#rc3-mullana-floor-wall": {
-            "scaleInDock": 1
-        },
-        "home_00.json#rc3-mullana-functionary": {
-            "scaleInDock": 1
-        },
-        "home_00.json#rc3-mullana-neon-signs": {
-            "scaleInDock": 1
-        },
-        "home_00.json#rc3-mullana-objects": {
-            "scaleInDock": 1
-        },
-        "home_00.json#rc3-mullana-overlay": {
-            "scaleInDock": 1
-        },
-        "main.json": {
-            "scale": 0.8932065217391304,
-            "selectedLayer": 0,
-            "viewCenter": {
-                "x": 304.52083967143295,
-                "y": 368.33586857316703
-            }
-        },
-        "main.json#10_coffee": {
-            "scaleInDock": 1
-        },
-        "main.json#23_tisch_weiss_1": {
-            "scaleInDock": 1
-        },
-        "main.json#57_zettelfoo": {
-            "scaleInDock": 1
-        },
-        "main.json#65_tischdokumente_2": {
-            "scaleInDock": 1
-        },
-        "main.json#broken_glass_1": {
-            "scaleInDock": 1
-        },
-        "main.json#c3gelb": {
-            "scaleInDock": 1
-        },
-        "main.json#cija": {
-            "scaleInDock": 1
-        },
-        "main.json#mapUtilities": {
-            "scaleInDock": 1
-        },
-        "main.json#misc": {
-            "scaleInDock": 1
-        },
-        "main.json#misc_set": {
-            "scaleInDock": 1
-        },
-        "main.json#rc3-mullana-colors-128": {
-            "scaleInDock": 1
-        },
-        "main.json#rc3-mullana-floor-wall": {
-            "scaleInDock": 1
-        },
-        "main.json#rc3-mullana-functionary": {
-            "scaleInDock": 1
-        },
-        "main.json#rc3-mullana-neon-signs": {
-            "scaleInDock": 1
-        },
-        "main.json#rc3-mullana-objects": {
-            "scaleInDock": 1
-        },
-        "main.json#rc3-mullana-overlay": {
-            "scaleInDock": 1
-        },
-        "medium.json": {
-            "scale": 0.7857291666666666,
-            "selectedLayer": 8,
-            "viewCenter": {
-                "x": 481.08179769322555,
-                "y": 481.0817976932256
-            }
-        },
-        "medium.json#08_right_mate_bottles_flora_full": {
-            "scaleInDock": 1
-        },
-        "medium.json#cija_32x32_expansion for Pipoya_CC0": {
-            "scaleInDock": 1
-        },
-        "medium.json#dk_transports": {
-            "scaleInDock": 1
-        },
-        "medium.json#mapUtilities": {
-            "scaleInDock": 1
-        },
-        "medium.json#minideko": {
-            "scaleInDock": 1
-        },
-        "medium.json#official_rockets": {
-            "scaleInDock": 1
-        },
-        "medium.json#rc3-mullana-colors-128": {
-            "scaleInDock": 1
-        },
-        "medium.json#rc3-mullana-floor-wall": {
-            "scaleInDock": 1
-        },
-        "medium.json#rc3-mullana-functionary": {
-            "scaleInDock": 1
-        },
-        "medium.json#rc3-mullana-neon-signs": {
-            "scaleInDock": 1
-        },
-        "medium.json#rc3-mullana-overlay": {
-            "scaleInDock": 1
-        },
-        "medium.json#rc3_style_set": {
-            "scaleInDock": 1
-        },
-        "medium.json#text": {
-            "scaleInDock": 1
-        },
-        "medium.json#tilesets_deviant_milkian_1": {
-            "scaleInDock": 1
-        },
-        "small.json": {
-            "scale": 1.0271875,
-            "selectedLayer": 0,
-            "viewCenter": {
-                "x": 320.2920596288409,
-                "y": 320.2920596288409
-            }
-        },
-        "small.json#10_coffee": {
-            "scaleInDock": 1
-        },
-        "small.json#23_tisch_weiss_1": {
-            "scaleInDock": 1
-        },
-        "small.json#57_zettelfoo": {
-            "scaleInDock": 1
-        },
-        "small.json#65_tischdokumente_2": {
-            "scaleInDock": 1
-        },
-        "small.json#broken_glass_1": {
-            "scaleInDock": 1
-        },
-        "small.json#c3gelb": {
-            "scaleInDock": 1
-        },
-        "small.json#cija": {
-            "scaleInDock": 1
-        },
-        "small.json#mapUtilities": {
-            "scaleInDock": 1
-        },
-        "small.json#misc": {
-            "scaleInDock": 1
-        },
-        "small.json#misc_set": {
-            "scaleInDock": 1
-        },
-        "small.json#rc3-mullana-colors-128": {
-            "scaleInDock": 1
-        },
-        "small.json#rc3-mullana-floor-wall": {
-            "scaleInDock": 1
-        },
-        "small.json#rc3-mullana-functionary": {
-            "scaleInDock": 1
-        },
-        "small.json#rc3-mullana-neon-signs": {
-            "scaleInDock": 1
-        },
-        "small.json#rc3-mullana-objects": {
-            "scaleInDock": 1
-        },
-        "small.json#rc3-mullana-overlay": {
+        "big.json#text": {
             "scaleInDock": 1
         },
         "taverne_aplha.json": {
-            "scale": 0.75,
-            "selectedLayer": 2,
+            "scale": 1.198,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 368,
-                "y": 245.33333333333331
+                "x": 411.10183639399,
+                "y": 358.0968280467446
             }
         },
         "taverne_aplha.json#10_coffee": {
@@ -601,6 +90,9 @@
             "scaleInDock": 1
         },
         "taverne_aplha.json#65_tischdokumente_2": {
+            "scaleInDock": 1
+        },
+        "taverne_aplha.json#Logo_bS_RG-Rhein-Ruhr": {
             "scaleInDock": 1
         },
         "taverne_aplha.json#broken_glass_1": {
@@ -643,29 +135,16 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "C:/Users/micro/OneDrive/Dokumente/WA-Home/tiles_png/community/cert/imgs/tilesheets",
+    "last.imagePath": "C:/Users/Till Bucker/Documents/GitHub/WA-Home/tiles_png/buildingSMART",
     "map.lastUsedFormat": "json",
     "openFiles": [
-        "Startraum_bS.json",
-        "main.json",
-        "taverne_aplha.json",
-        "home_00.json",
-        "medium.json",
-        "small.json"
+        "big.json",
+        "taverne_aplha.json"
     ],
     "project": "WA-project.tiled-project",
     "recentFiles": [
-        "Startraum_bS.json",
-        "main.json",
-        "small.json",
-        "medium.json",
-        "home_00.json",
-        "taverne_aplha.json",
-        "C:/Users/micro/OneDrive/Dokumente/Workadventure/buildingSMART_RG_RR_WA/Startraum_bS.json",
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/main.json",
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/small.json",
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/big.json",
-        "C:/Users/micro/OneDrive/Dokumente/buildingsmart-WA/medium.json"
+        "big.json",
+        "taverne_aplha.json"
     ],
     "textEdit.monospace": false,
     "tileset.embedInMap": true
