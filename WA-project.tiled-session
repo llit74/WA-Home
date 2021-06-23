@@ -72,6 +72,65 @@
         "big.json#text": {
             "scaleInDock": 1
         },
+        "home_00.json": {
+            "scale": 1.1667187499999998,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 320.1285656890318,
+                "y": 320.55711798580427
+            }
+        },
+        "home_00.json#10_coffee": {
+            "scaleInDock": 1
+        },
+        "home_00.json#23_tisch_weiss_1": {
+            "scaleInDock": 1
+        },
+        "home_00.json#57_zettelfoo": {
+            "scaleInDock": 1
+        },
+        "home_00.json#65_tischdokumente_2": {
+            "scaleInDock": 1
+        },
+        "home_00.json#broken_glass_1": {
+            "scaleInDock": 1
+        },
+        "home_00.json#c3gelb": {
+            "scaleInDock": 1
+        },
+        "home_00.json#cija": {
+            "scaleInDock": 1
+        },
+        "home_00.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "home_00.json#minideko": {
+            "scaleInDock": 1
+        },
+        "home_00.json#misc": {
+            "scaleInDock": 1
+        },
+        "home_00.json#misc_set": {
+            "scaleInDock": 1
+        },
+        "home_00.json#rc3-mullana-colors-128": {
+            "scaleInDock": 1
+        },
+        "home_00.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "home_00.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "home_00.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "home_00.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "home_00.json#rc3-mullana-overlay": {
+            "scaleInDock": 1
+        },
         "main.json": {
             "scale": 1.1668478260869564,
             "selectedLayer": 3,
@@ -130,10 +189,10 @@
         },
         "taverne_aplha.json": {
             "scale": 1.198,
-            "selectedLayer": -1,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 411.9365609348915,
-                "y": 358.0968280467446
+                "y": 308.0133555926545
             }
         },
         "taverne_aplha.json#10_coffee": {
@@ -195,7 +254,7 @@
             "selectedLayer": 12,
             "viewCenter": {
                 "x": 342.6544240400668,
-                "y": 357.26210350584313
+                "y": 307.1786310517529
             }
         },
         "taverne_beta.json#10_coffee": {
